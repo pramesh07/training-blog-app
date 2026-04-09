@@ -14,6 +14,11 @@ blog-app/
 
 The backend is built with Node.js, Express, TypeScript, and MongoDB.
 
+## APPLICATION BOOT UP
+
+## SIMPLY RUN THE DOCKER COMPOSE UP command
+## OR FOLLOW MANUAL STEPS
+
 ### Prerequisites
 
 - Node.js (v16+)
